@@ -1,3 +1,4 @@
+[![MasterHead](https://media.licdn.com/dms/image/C4E12AQFqEHPp0vRqQA/article-cover_image-shrink_720_1280/0/1634393374732?e=2147483647&v=beta&t=KGgxFoFiiQ9yyp5gGEVHvUtGh1HN5z0vUY72kKZcE5M)]
 <h1 align="center">Hi 👋, I'm Dhruv Patel</h1>
 <h3 align="center">A passionate Full stack developer</h3>
 
