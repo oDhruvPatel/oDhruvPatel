@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://odhruvpatel.github.io/newfolderr/](https://odhruvpatel.github.io/newfolderr/)
 
-- 💬 Ask me about **MERN, Next.js,**
+- 💬 Ask me about **MERN, Next.js**
 
 - 📫 How to reach me **dhruvpatel2721978@gmail.com**
 
