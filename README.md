@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=odhruvpatel" alt="odhruvpatel" /></a> </p>
 
-- 🔭 I’m currently working on **WebRTC application**
+- 🔭 I’m currently working on **Video calling application using WebRTC**
 
 - 🌱 I’m currently learning **Next.js**
 
