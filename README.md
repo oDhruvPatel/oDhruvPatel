@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/C511BAQFnmyqS8egSCg/company-background_10000/0/1583951983616/fullstack_developers_cover?e=2147483647&v=beta&t=CnW0MvORxVQ20CS-WKA0oHJxc287AEdzBCqHFQSvTHY)
+![MasterHead](https://media.licdn.com/dms/image/C5112AQEoq9MxhwjOcA/article-cover_image-shrink_600_2000/0/1558900050534?e=2147483647&v=beta&t=S151jyZ2WZGWLfHpE9wj8W4_o1XIflHWJBk881m9R2Y)
 <h1 align="center">Hi 👋, I'm Dhruv Patel</h1>
 <h3 align="center">A passionate Full stack developer</h3>
 
