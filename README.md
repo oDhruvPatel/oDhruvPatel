@@ -1,4 +1,4 @@
-[![MasterHead](https://www.gyanvihar.org:3001/uploads/1630053356860mbahead.jpg)]
+[![MasterHead](https://www.apptha.com/blog/wp-content/uploads/2019/05/Hire-full-stack-developer.jpg)]
 <h1 align="center">Hi 👋, I'm Dhruv Patel</h1>
 <h3 align="center">A passionate Full stack developer</h3>
 
