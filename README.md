@@ -1,6 +1,6 @@
 ![MasterHead](https://media.licdn.com/dms/image/C5112AQEoq9MxhwjOcA/article-cover_image-shrink_600_2000/0/1558900050534?e=2147483647&v=beta&t=S151jyZ2WZGWLfHpE9wj8W4_o1XIflHWJBk881m9R2Y)
 <h1 align="center">Hi 👋, I'm Dhruv Patel</h1>
-<h3 align="center">A passionate Full stack developer</h3>
+<h3 align="center">A passionate Full stack developer and Data Analyst</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=odhruvpatel&label=Profile%20views&color=0e75b6&style=flat" alt="odhruvpatel" /> </p>
 
